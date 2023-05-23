@@ -1,0 +1,26 @@
+/* public/css/formation.css */
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table thead th {
+    padding: 12px 15px;
+    font-weight: bold;
+    text-align: left;
+    background-color: #343a40;
+    color: #fff;
+}
+
+.table tbody td {
+    padding: 10px 15px;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+.btn-group .btn {
+    margin-right: 5px;
+}
